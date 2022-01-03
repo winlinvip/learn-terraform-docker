@@ -4,4 +4,5 @@ Deploy SRS by [terraform docker](https://learn.hashicorp.com/tutorials/terraform
 
 * [install](install): See [Install Terraform](https://learn.hashicorp.com/tutorials/terraform/install-cli?in=terraform/docker-get-started)
 * [variables](variables): See [Define Input Variables](https://learn.hashicorp.com/tutorials/terraform/docker-variables?in=terraform/docker-get-started).
+* [outputs](outputs): See [Query Data with Outputs](https://learn.hashicorp.com/tutorials/terraform/docker-outputs?in=terraform/docker-get-started)
 
